@@ -1,0 +1,11 @@
+.contain {
+  width: 100%; 
+  max-width: 100vw; 
+  margin: auto; 
+}
+
+.contain img {
+  width: 100%; 
+  height: 90vh; 
+  object-fit: contain; 
+}
